@@ -4,6 +4,30 @@
 
 #map-container { height: 180px; }
 
+#home {
+	font-family: 'Raleway';
+}
+
+.container h2 {
+	font-family: 'Raleway';
+}
+.navbar a {
+	font-family: 'Raleway';
+}
+
+dt {
+	font-family: 'Raleway';
+	text-transform: uppercase;
+	color: green;
+	font-weight: bolder;
+}
+#links-tab a {
+	color:green;
+}
+footer a {
+	color:green;
+}
+
 
 
 
